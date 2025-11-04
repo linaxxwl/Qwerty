@@ -11,6 +11,7 @@ namespace Meow
         static void Main(string[] args)
         {
             Console.WriteLine("Привет");
+            Console.WriteLine("Пока");
         }
     }
 }
